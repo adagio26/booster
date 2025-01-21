@@ -34,4 +34,5 @@
 <li><a href="https://youtob.art/" rel= "dofollow" >https://youtob.art/</a></li>
 <li><a href="https://smansator.sch.id/grade/" rel= "dofollow" >https://smansator.sch.id/grade/</a></li>
 <li><a href="https://cms.madhesh.gov.np/grade/" rel= "dofollow" >https://cms.madhesh.gov.np/grade/</a></li>
+<li><a href="https://myizin.com/css/" rel= "dofollow" >https://myizin.com/css/</a></li>
 </ul>
