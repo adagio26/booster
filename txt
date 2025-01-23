@@ -1,27 +1,15 @@
 <div style="display:none">
 <ul>
 <li><a href="https://dirmanagement.com/" rel=  "dofollow"  >https://dirmanagement.com/</a></li>
-<li><a href="https://fotografer.or.id/" rel=  "dofollow"  >https://fotografer.or.id/</a></li>
 <li><a href="https://amichecartomanti.com/" rel= "dofollow" >https://amichecartomanti.com/</a></li>
 <li><a href="https://viaglsildf.com/" rel= "dofollow" >https://viaglsildf.com/</a></li>
-<li><a href="https://pusatbahasa.or.id/" rel= "dofollow" >https://pusatbahasa.or.id/</a></li>
 <li><a href="https://gnamoxicill.com/" rel= "dofollow" >https://gnamoxicill.com/</a></li>
 <li><a href="https://alledujobs.com/" rel= "dofollow" >https://alledujobs.com/</a></li>
-<li><a href="https://aha.co.id/" rel= "dofollow" >https://aha.co.id/</a></li>
-<li><a href="https://konfiden.or.id/" rel= "dofollow" >https://konfiden.or.id/</a></li>
-<li><a href="https://eldra.co.id/icon/" rel= "dofollow" >https://eldra.co.id/icon/</a></li>
 <li><a href="https://acyclovirzvr.com/" rel= "dofollow" >https://acyclovirzvr.com/</a></li>
-<li><a href="https://toogbe.com/" rel= "dofollow" >https://toogbe.com/</a></li>
 <li><a href="https://pabnapourashava.gov.bd/pub/" rel= "dofollow" >https://pabnapourashava.gov.bd/pub/</a></li>
 <li><a href="https://slims.myizin.com/grade/" rel= "dofollow" >https://slims.myizin.com/grade/</a></li>
-<li><a href="https://pajak.myizin.com/" rel= "dofollow" >https://pajak.myizin.com/</a></li>
-<li><a href="https://www.cellustra.net/" rel= "dofollow" >https://www.cellustra.net/</a></li>
-<li><a href="https://basisoft.com/" rel= "dofollow" >https://basisoft.com/</a></li>
-<li><a href="https://eldra.co.id/" rel= "dofollow" >https://eldra.co.id/</a></li>
 <li><a href="https://digitalhamireland.com/" rel= "dofollow" >https://digitalhamireland.com/</a></li>
 <li><a href="https://www.aspensystemsdirect.com/" rel= "dofollow" >https://www.aspensystemsdirect.com/</a></li>
-<li><a href="https://goverment.or.id/" rel= "dofollow" >https://goverment.or.id/</a></li>
-<li><a href="https://myizin.com/assets/" rel= "dofollow" >https://myizin.com/assets/</a></li>
 <li><a href="https://adaltmaster.com/" rel= "dofollow" >https://adaltmaster.com/</a></li>
 <li><a href="https://silampuneon.com/" rel= "dofollow" >https://silampuneon.com/</a></li>
 <li><a href="https://www.cellustra.net/" rel= "dofollow" >https://www.cellustra.net/</a></li>
@@ -35,4 +23,25 @@
 <li><a href="https://smansator.sch.id/grade/" rel= "dofollow" >https://smansator.sch.id/grade/</a></li>
 <li><a href="https://cms.madhesh.gov.np/grade/" rel= "dofollow" >https://cms.madhesh.gov.np/grade/</a></li>
 <li><a href="https://myizin.com/css/" rel= "dofollow" >https://myizin.com/css/</a></li>
+<li><a href="https://smansator.sch.id/grade/" rel= "dofollow" >https://smansator.sch.id/grade/</a></li>
+<li><a href="https://hyuuji.com/" rel= "dofollow" >https://hyuuji.com/</a></li>
+<li><a href="https://factsandnonsense.com/" rel= "dofollow" >https://factsandnonsense.com/</a></li>
+<li><a href="https://codeoptimizerpro.com" rel= "dofollow" >https://codeoptimizerpro.com</a></li>
+<li><a href="https://comfortinnpolaris.com/" rel= "dofollow" >https://comfortinnpolaris.com/</a></li>
+<li><a href="https://cusmani.com/css/" rel= "dofollow" >https://cusmani.com/css/</a></li>
+<li><a href="https://survey.binamarga.pu.go.id/img/" rel= "dofollow" >https://survey.binamarga.pu.go.id/img/</a></li>
+<li><a href="https://baldyrgan35.skom.kz/wp-content/uploads/" rel= "dofollow" >https://baldyrgan35.skom.kz/wp-content/uploads/</a></li>
+<li><a href="https://event.fazautamasejahtera.com/" rel= "dofollow" >https://event.fazautamasejahtera.com/</a></li>
+<li><a href="http://aray-atameken.skom.kz/wp-content/uploads/" rel= "dofollow" >http://aray-atameken.skom.kz/wp-content/uploads/</a></li>
+<li><a href="https://aksyat.skom.kz/wp-content/uploads/" rel= "dofollow" >https://aksyat.skom.kz/wp-content/uploads/</a></li>
+<li><a href="http://aigolek-khobda.skom.kz/images/thumbnails/" rel= "dofollow" >http://aigolek-khobda.skom.kz/images/thumbnails/</a></li>
+<li><a href="http://abaycb.skom.kz/wp-content/uploads/" rel= "dofollow" >http://abaycb.skom.kz/wp-content/uploads/</a></li>
+<li><a href="http://tilsko.skom.kz/wp-content/uploads/" rel= "dofollow" >http://tilsko.skom.kz/wp-content/uploads/</a></li>
+<li><a href="https://zerek-mektep.edu.skom.kz/wp-content/uploads/" rel= "dofollow" >https://zerek-mektep.edu.skom.kz/wp-content/uploads/</a></li>
+<li><a href="https://10aktau.edu.kz/wp-content/uploads/" rel= "dofollow" >https://10aktau.edu.kz/wp-content/uploads/</a></li>
+<li><a href="http://zhaukazin-sad.skom.kz/wp-content/uploads/" rel= "dofollow" >http://zhaukazin-sad.skom.kz/wp-content/uploads/</a></li>
+<li><a href="https://ecoaudittools.com/" rel= "dofollow" >https://ecoaudittools.com/</a></li>
+<li><a href="https://thepeterpanclub.com/" rel= "dofollow" >https://thepeterpanclub.com/</a></li>
+<li><a href="https://youtob.art/" rel= "dofollow" >https://youtob.art/</a></li>
+<li><a href="https://aspensystemsdirect.com/" rel= "dofollow" >https://aspensystemsdirect.com/</a></li>
 </ul>
