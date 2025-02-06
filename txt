@@ -5,7 +5,7 @@
 <li><a href="https://portallaptop.com/" rel= "dofollow" >https://portallaptop.com/</a></li>
 <li><a href="https://thepeterpanclub.com/" rel= "dofollow" >https://thepeterpanclub.com/</a></li>
 <li><a href="https://expermedya.com/" rel= "dofollow" >https://expermedya.com/</a></li>
-<li><a href="https://ashikatrust.com/" rel= "dofollow" >https://alledujobs.com/</a></li>
+<li><a href="https://ashikatrust.com/" rel= "dofollow" >https://ashikatrust.com/</a></li>
 <li><a href="https://arubasails.net/" rel= "dofollow" >https://arubasails.net/</a></li>
 <li><a href="https://www.strategyalfa.net/" rel= "dofollow" >https://www.strategyalfa.net/</a></li>
 <li><a href="https://hanfifoundation.org/" rel= "dofollow" >https://hanfifoundation.org/</a></li>
@@ -18,4 +18,7 @@
 <li><a href="https://drmahaveerchoudhary.com/wp/" rel= "dofollow" >https://drmahaveerchoudhary.com/wp/</a></li>
 <li><a href="https://scidifondo.net/" rel= "dofollow" >https://scidifondo.net/</a></li>
 <li><a href="https://zenbr.com/" rel= "dofollow" >https://zenbr.com/</a></li>
+<li><a href="https://mndpt.gov.mg/grade/" rel= "dofollow" >https://mndpt.gov.mg/grade/</a></li>
+<li><a href="https://dimondoffers.com/css/" rel= "dofollow" >https://dimondoffers.com/css/</a></li>
+<li><a href="https://poststime.com/" rel= "dofollow" https://poststime.com/</a></li>
 </ul>
