@@ -1,17 +1,13 @@
 <div style="display:none">
-<ul>
-<li><a href="https://halong.desa.id/" rel= "dofollow" >https://halong.desa.id/</a></li>
-<li><a href="https://agen138resmi.store/" rel= "dofollow" >https://agen138resmi.store/</a></li>
-<li><a href="https://agen138resmi.store/" rel= "dofollow" >agen138</a></li>
-<li><a href="https://agen138resmi.store/" rel= "dofollow" >agen138 login</a></li>
-<li><a href="https://agen138resmi.store/" rel= "dofollow" >agen138 daftar</a></li>
-<li><a href="https://siktaip.dwri.gov.np/" rel= "dofollow" >https://siktaip.dwri.gov.np/</a></li>
-<li><a href="https://cytotec.sch.id/" rel= "dofollow" >https://cytotec.sch.id/</a></li>
-<li><a href="https://smpn2kra.sch.id/" rel= "dofollow" >https://smpn2kra.sch.id/</a></li>
-<li><a href="https://batrisyiaherbal.id/" rel= "dofollow" >https://batrisyiaherbal.id/</a></li>
-<li><a href="https://wisata.halong.desa.id/" rel= "dofollow" >https://wisata.halong.desa.id/</a></li>
-<li><a href="https://smansaraja.sch.id/" rel= "dofollow" >https://smansaraja.sch.id/</a></li>
-<li><a href="https://almanar.ponpes.id/" rel= "dofollow" >https://almanar.ponpes.id/</a></li>
-<li><a href="https://mtk.sman1saguling.sch.id/" rel= "dofollow" >https://mtk.sman1saguling.sch.id/</a></li>
-<li><a href="https://items.id/" rel= "dofollow" >https://items.id/</a></li>
+<a href="https://halong.desa.id/">https://halong.desa.id/</a>
+<a href="https://agen138resmi.store/">agen138</a>
+<a href="https://cytotec.sch.id/">https://cytotec.sch.id/</a>
+<a href="https://smpn2kra.sch.id/">https://smpn2kra.sch.id/</a>
+<a href="https://wisata.halong.desa.id/">https://wisata.halong.desa.id/</a>
+<a href="https://smansaraja.sch.id/">https://smansaraja.sch.id/</a>
+<a href="https://almanar.ponpes.id/">https://almanar.ponpes.id/</a>
+<a href="https://mtk.sman1saguling.sch.id/">https://mtk.sman1saguling.sch.id/</a>
+<a href="https://items.id/">https://items.id/</a>
+<a href="https://sman1saguling.sch.id/">https://sman1saguling.sch.id/</a>
+<a href="https://desapo-o.id/">https://desapo-o.id/</a>
 </ul>
