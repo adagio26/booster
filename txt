@@ -24,4 +24,5 @@
 <a href="https://bina.halong.desa.id/">https://bina.halong.desa.id/</a>
 <a href="https://smaxaveriusbta.sch.id/">https://smaxaveriusbta.sch.id/</a>
 <a href="https://printer.web.id/">https://printer.web.id/</a>
+<a href="https://gcr.halong.desa.id/">https://gcr.halong.desa.id/</a>
 </ul>
